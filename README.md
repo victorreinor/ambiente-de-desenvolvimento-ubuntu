@@ -124,6 +124,10 @@ copie e cole as configurações a seguir:
 
 https://github.com/victorreinor/ambiente-de-desenvolvimento-ubuntu/blob/main/settings.json
 
+### Slack
+
+`sudo snap install slack --classic`
+
 ## Ferramentas complementares
 
 ### Adicionar Peek
