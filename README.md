@@ -167,3 +167,13 @@ Grava uma seleção de sua tela para uma imagem GIF animada
 `sudo apt install gnome-tweak-tool`
 
 Extensões -> Ubuntu Dock -> Disable
+
+### Sticky Notes
+
+Para instalar o Sticky Notes no Ubuntu e derivados, faça o seguinte:
+
+`sudo apt-add-repository ppa:umang/indicator-stickynotes`
+
+`sudo apt-get update`
+
+`sudo apt-get install indicator-stickynotes`
