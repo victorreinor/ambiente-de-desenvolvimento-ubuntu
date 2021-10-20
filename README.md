@@ -150,6 +150,12 @@ Grava uma seleção de sua tela para uma imagem GIF animada
 
 `sudo apt-get install shutter`
 
+### Adicionar Flameshot (Alternativa leve para Shutter)
+
+É uma ferramenta gratuita de captura de tela, com diversos recursos de edição.
+
+`sudo snap install flameshot`
+
 ### Adicionar Spotify
 
 `sudo snap install spotify`
