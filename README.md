@@ -128,6 +128,14 @@ https://github.com/victorreinor/ambiente-de-desenvolvimento-ubuntu/blob/main/set
 
 `sudo snap install slack --classic`
 
+### Gitg
+
+Mostra as informações relacionadas a cada commit e os arquivos nas árvores dos repositorios.
+
+`sudo apt-get update`
+
+`sudo apt-get install gitg`
+
 ## Ferramentas complementares
 
 ### Adicionar Peek
