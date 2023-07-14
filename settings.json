@@ -1,67 +1,80 @@
 {
-    "workbench.startupEditor": "newUntitledFile",
-    "workbench.colorTheme": "Omni",
-    "editor.fontFamily": "Fira Code",
-    "editor.fontLigatures": true,
-    "editor.fontSize": 18,
-    "editor.lineHeight": 26,
-    "workbench.iconTheme": "material-icon-theme",
-    "editor.formatOnSave": false,
-    "editor.smoothScrolling": true,
-    "eslint.validate": [
-      "javascript",
-      "javascriptreact",
-      "typescript",
-      "typescriptreact"
-    ],
-    "editor.rulers": [
-      80,
-      120
-    ],
-    "editor.tabSize": 2,
-    "editor.renderLineHighlight": "gutter",
-    "terminal.integrated.fontSize": 14,
-    "terminal.integrated.shell.osx": "/bin/zsh",
-    "emmet.syntaxProfiles": {
-      "javascript": "jsx"
-    },
-    "emmet.includeLanguages": {
-      "javascript": "javascriptreact"
-    },
-    "javascript.updateImportsOnFileMove.enabled": "never",
-    "breadcrumbs.enabled": true,
-    "editor.parameterHints.enabled": false,
-    "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\cmd.exe",
-    "[javascript]": {
-      "editor.defaultFormatter": "vscode.typescript-language-features"
-    },
-    "[javascriptreact]": {
-      "editor.defaultFormatter": "vscode.typescript-language-features"
-    },
-    "terminal.integrated.shell.linux": "/bin/zsh",
-    "git.autofetch": true,
-    "editor.codeActionsOnSave": {
-      "source.fixAll.eslint": true,
-      "source.fixall.eslintIntegration": true
-    },
-    "[json]": {
-      "editor.defaultFormatter": "esbenp.prettier-vscode"
-    },
-    "liveServer.settings.donotShowInfoMsg": true,
-    "[html]": {
-      "editor.defaultFormatter": "vscode.html-language-features"
-    },
-    "diffEditor.ignoreTrimWhitespace": false,
-    "[typescript]": {
-      "editor.defaultFormatter": "vscode.typescript-language-features"
-    },
-    "[jsonc]": {
-      "editor.defaultFormatter": "esbenp.prettier-vscode"
-    },
-    "codemetrics.basics.ComplexityLevelExtremeDescription": "Que porra é essa...",
-    "codemetrics.basics.ComplexityLevelHighDescription": "Você deve estar brincando",
-    "codemetrics.basics.ComplexityLevelLowDescription": "Está tudo legal!",
-    "codemetrics.basics.ComplexityLevelNormalDescription": "Isso está começando a ficar feio...",
-    "codemetrics.basics.ComplexityTemplate": "Complexidade é: {0} - {1}",
-    "typescript.updateImportsOnFileMove.enabled": "always"
+  "workbench.startupEditor": "newUntitledFile",
+  "workbench.colorTheme": "Dracula",
+  "editor.fontFamily": "Fira Code",
+  "editor.fontLigatures": true,
+  "editor.fontSize": 18,
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.formatOnSave": false,
+  "editor.smoothScrolling": true,
+  "eslint.validate": [
+    "javascript",
+    "javascriptreact",
+    "typescript",
+    "typescriptreact"
+  ],
+  "editor.rulers": [80, 120],
+  "editor.tabSize": 2,
+  "editor.renderLineHighlight": "gutter",
+  "terminal.integrated.fontSize": 14,
+  "emmet.syntaxProfiles": {
+    "javascript": "jsx"
+  },
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "javascript.updateImportsOnFileMove.enabled": "never",
+  "breadcrumbs.enabled": true,
+  "editor.parameterHints.enabled": false,
+  "#terminal.integrated.shell.windows#": "C:\\WINDOWS\\System32\\cmd.exe",
+  "[javascript]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features",
+  },
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "git.autofetch": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true,
+    "source.fixall.eslintIntegration": true,
+  },
+  // "[json]": {
+  //   "editor.defaultFormatter": "esbenp.prettier-vscode"
+  // },
+  "liveServer.settings.donotShowInfoMsg": true,
+  "[html]": {
+    "editor.defaultFormatter": "vscode.html-language-features"
+  },
+  "diffEditor.ignoreTrimWhitespace": false,
+  "[typescript]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "codemetrics.basics.ComplexityLevelExtremeDescription": "Que porra é essa...",
+  "codemetrics.basics.ComplexityLevelHighDescription": "Você deve estar brincando",
+  "codemetrics.basics.ComplexityLevelLowDescription": "Está tudo legal!",
+  "codemetrics.basics.ComplexityLevelNormalDescription": "Isso está começando a ficar feio...",
+  "codemetrics.basics.ComplexityTemplate": "Complexidade é: {0} - {1}",
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "sync.gist": "vscode-settings",
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "security.workspace.trust.untrustedFiles": "open",
+  "liveServer.settings.donotVerifyTags": true,
+  "bracketPairColorizer.depreciation-notice": false,
+  "workbench.editor.enablePreview": false,
+  "explorer.confirmDragAndDrop": false,
+  "[scss]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "workbench.editor.untitled.hint": "hidden",
+  "Lua.telemetry.enable": true,
+  "Lua.diagnostics.enable": false,
+  "redhat.telemetry.enabled": true,
+  "dev.containers.defaultFeatures": {
+  
+  },
+  "[json]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
   }
+}
