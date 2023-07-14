@@ -176,6 +176,8 @@ Grava uma seleção de sua tela para uma imagem GIF animada
 
 ### Adicionar Plank Dock (Opcional)
 
+* No ubuntu 22.04 já vem nativo a dock flutuante.
+
 `sudo add-apt-repository -y ppa:ricotz/docky`
 
 `sudo apt-get update`
