@@ -162,6 +162,12 @@ Grava uma seleção de sua tela para uma imagem GIF animada
 
 É uma ferramenta gratuita de captura de tela, com diversos recursos de edição.
 
+`sudo apt update`
+
+`sudo apt upgrade`
+
+`sudo apt install wget apt-transport-https gnupg2`
+
 `sudo snap install flameshot`
 
 ### Adicionar Spotify
