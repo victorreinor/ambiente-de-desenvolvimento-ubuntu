@@ -1,5 +1,11 @@
 ## Ferramentas essenciais
 
+### Imagem do Postgis no Docker
+
+Comando abaixa instala a imagem do postgis, seta os parametros de password e usuário e também libera a porta para escuta localhost entre docker e maquina.
+
+```docker run --name postgis -e POSTGRES_PASSWORD=test -e POSTGRES_USER=postgres -p 127.0.0.1:5432:5432 -d postgis/postgis:10-3.1```
+
 ### Google Chrome
 
 Para instalar o Google Chrome a partir do terminal, precisamos baixar o arquivo DEB usando o comando wget:
